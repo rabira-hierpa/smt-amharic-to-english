@@ -1,4 +1,4 @@
-# A Statistical Machine Translator for Amahric and Enlish Language
+# A Statistical Machine Translator for Amahric and English Language
 
 A statistical machine translator from Amharic to English Language. NLP - CoSc6405
 
