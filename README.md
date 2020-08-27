@@ -2,7 +2,7 @@
 
 A statistical machine translator from Amharic to English Language. NLP - CoSc6405
 
-### Steps to compile the tools(Mses,GIZA++,IRSTLM,Boost,CMPH, and XML-RPC)
+### Steps to compile the tools(Moses,GIZA++,IRSTLM,Boost,CMPH, and XML-RPC)
 
 Visit http://bit.ly/installing-moses-for-smt or
 
@@ -13,7 +13,7 @@ cd smt-amharic-to-english
 sudo ./build-tools.hs
 ```
 
-## Steps to Model and train the translation model
+## Steps to model and train the translation model
 
 See the smt-guide.md file
 
