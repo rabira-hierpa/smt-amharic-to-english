@@ -15,7 +15,7 @@ sudo ./build-tools.hs
 
 ## Steps to model and train the translation model
 
-See the smt-guide.md file
+See the [smt-guide.md](https://github.com/rabira-hierpa/smt-amharic-to-english/blob/master/smt-guide.md) file
 
 # Run the translation system
 
@@ -29,3 +29,5 @@ sudo ./smt-translator.sh
 # Demo
 
 ![Sample Translation](./promo/sample-translation.png)
+
+Give it a 🌟 if you like it
